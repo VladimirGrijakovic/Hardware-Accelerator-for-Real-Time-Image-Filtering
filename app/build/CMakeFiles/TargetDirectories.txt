@@ -1,0 +1,3 @@
+C:/Users/grija/DVS_Vezbanje/DVS_projekat_novi/software/app/build/CMakeFiles/app.elf.dir
+C:/Users/grija/DVS_Vezbanje/DVS_projekat_novi/software/app/build/CMakeFiles/edit_cache.dir
+C:/Users/grija/DVS_Vezbanje/DVS_projekat_novi/software/app/build/CMakeFiles/rebuild_cache.dir
